@@ -1,9 +1,9 @@
 {
   "app": {
     "title": "Unibet Slots",
-    "imagePath": "https://raw.githubusercontent.com/AugustMoore/apps/master/china-slot.jpg",
-    "linkPath": "",
-    "linkAction": "#start",
+    "imagePath": "https://raw.githubusercontent.com/AugustMoore/apps/master/Unibet.jpg",
+    "linkPath": "https://dspk.kindredplc.com/redirect.aspx?pid=30180971&bid=25687&Limay=a_2189",
+    "linkAction": "#web",
     "afid": "GXoaJYpPWGePRp3trz3dUc"
   }
 }
